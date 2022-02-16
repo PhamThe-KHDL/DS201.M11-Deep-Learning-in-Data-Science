@@ -1,7 +1,7 @@
 # DS201.M11 - Deep Learning in Data Science
 
 
-DS201.M11 - Deep Learning in Data Science
+DS201.M11 - Deep Learning Trong Khoa Học Dữ Liệu
 
 Học kỳ 1 Năm 3 Năm học 2021-2022 
 
