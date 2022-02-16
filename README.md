@@ -14,7 +14,23 @@ Học kỳ 1 Năm 3 Năm học 2021-2022
 
 | Buổi | Ngày | Nội Dung | Mô Tả | LT/TH | Slide | Code | Video Record |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| 01 | 07/09/2021 | Giới thiệu Neural Network và Deep Learning |  | LT-01 | [Link]() |  | [Giới thiệu Neural Network và Deep Learning](https://www.youtube.com/watch?v=6m_jgWAWIZc&list=PLdPO3j37nCz5WcWN6gHWkfncAvsTxPynI&index=1) |
 |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+
+
 
 ## Thực hiện
 
