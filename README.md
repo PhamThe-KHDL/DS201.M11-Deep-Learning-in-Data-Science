@@ -14,7 +14,7 @@ Học kỳ 1 Năm 3 Năm học 2021-2022
 
 | Buổi | Ngày | Nội Dung | Mô Tả | LT/TH | Slide | Code | Video Record |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-| 01 | 07/09/2021 | Giới thiệu Neural Network và Deep Learning |  | LT-01 | [Link](https://github.com/PhamThe-KHDL/DS201.M11-Deep-Learning-in-Data-Science/blob/main/L%C3%9D%20THUY%E1%BA%BET/01%20-%20Introduction%20to%20Neural%20Network%20and%20Deep%20Learning.pdf) |  | [Giới thiệu Neural Network và Deep Learning](https://youtu.be/6m_jgWAWIZc) |
+| 01 | 07/09/2021 | Giới thiệu Neural Network và Deep Learning |  | LT-01 | [01 - Introduction to Neural Network and Deep Learning](https://github.com/PhamThe-KHDL/DS201.M11-Deep-Learning-in-Data-Science/blob/main/L%C3%9D%20THUY%E1%BA%BET/01%20-%20Introduction%20to%20Neural%20Network%20and%20Deep%20Learning.pdf) |  | [Giới thiệu Neural Network và Deep Learning](https://youtu.be/6m_jgWAWIZc) |
 |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |
