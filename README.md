@@ -24,7 +24,7 @@ Học kỳ 1 Năm 3 Năm học 2021-2022
 | 08 | 06/10/2021 | Các kỹ thuật tối ưu mô hóa hình |  | TH.1-02 | [Bài Thực Hành 02](https://github.com/PhamThe-KHDL/DS201.M11-Deep-Learning-in-Data-Science/blob/main/TH%E1%BB%B0C%20H%C3%80NH/T%C3%80I%20LI%E1%BB%86U%20TH%E1%BB%B0C%20H%C3%80NH/Bai%20thuc%20hanh%202%20(updated).pdf) |  | [Lab02 - Các kỹ thuật tối ưu mô hóa hình](https://youtu.be/sudYZ1Tel08) |
 | 09 | 12/10/2021 | Convolutional Neural Networks |  | LT-06 | [03 - Convolutional Neural Network](https://github.com/PhamThe-KHDL/DS201.M11-Deep-Learning-in-Data-Science/blob/main/L%C3%9D%20THUY%E1%BA%BET/03%20-%20Convolutional%20Neural%20Network.pdf) |  | [06 - Convolutional Neural Networks](https://youtu.be/4BOriaX1fYU) |
 | 10 | 13/10/2021 | Các kỹ thuật tối ưu mô hóa hình |  | TH.2-02 | [Bài Thực Hành 02](https://github.com/PhamThe-KHDL/DS201.M11-Deep-Learning-in-Data-Science/blob/main/TH%E1%BB%B0C%20H%C3%80NH/T%C3%80I%20LI%E1%BB%86U%20TH%E1%BB%B0C%20H%C3%80NH/Bai%20thuc%20hanh%202%20(updated).pdf) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mwPl6rTlOoPKC0T3XOIu-9JAorIPxZeP?usp=sharing) | [Lab02 - Các kỹ thuật tối ưu mô hóa hình](https://youtu.be/CPk5LFEeYDU) |
-| 11 |  |  |  |  |  |  |  |
+| 11 | 19/10/2021 | Convolutional Neural Networks |  | LT-07 | [03 - Convolutional Neural Network](https://github.com/PhamThe-KHDL/DS201.M11-Deep-Learning-in-Data-Science/blob/main/L%C3%9D%20THUY%E1%BA%BET/03%20-%20Convolutional%20Neural%20Network.pdf) |  | [07 - Convolutional Neural Networks](https://youtu.be/q6pFaf-TXi8) |
 | 12 |  |  |  |  |  |  |  |
 | 13 |  |  |  |  |  |  |  |
 | 14 |  |  |  |  |  |  |  |
