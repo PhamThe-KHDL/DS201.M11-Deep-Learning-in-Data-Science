@@ -41,7 +41,7 @@ Học kỳ 1 Năm 3 Năm học 2021-2022
 | 25 | 07/12/2021 | Báo Cáo Tiến Độ Đồ Án |  | LT-14 |  |  | [14 - Báo Cáo Tiến Độ Đồ Án](https://youtu.be/2Xc4DpQ67Y8) |
 | 26 | 08/12/2021 | ỨNG DỤNG MẠNG NEURAL HỒI QUY |  | TH.2-06 | [Bài Thực Hành 06](https://github.com/PhamThe-KHDL/DS201.M11-Deep-Learning-in-Data-Science/blob/main/TH%E1%BB%B0C%20H%C3%80NH/T%C3%80I%20LI%E1%BB%86U%20TH%E1%BB%B0C%20H%C3%80NH/Bai%20thuc%20hanh%206%20(updated).pdf) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12flJTogg9gtEzhO9Toy7JxnEv62cBozt?usp=sharing) | [Lab06 - ỨNG DỤNG MẠNG NEURAL HỒI QUY](https://youtu.be/fqsRUgkg5o0) |
 | 27 | 13/12/2021 | Các Mô Hình Ngôn Ngữ - Attention Model |  | LT-15 |  |  | [15 - Các Mô Hình Ngôn Ngữ - Attention Model](https://youtu.be/QBGXDQFF4B4) |
-| 28 | 25/01/2022 | Báo Cáo Đồ Án Cuối Kỳ |  | LT-16 |  |  | [16 - Báo Cáo Đồ Án Cuối Kỳ (Part 1)](https://youtu.be/9q1Djq7iQAE) |
+| 28 | 25/01/2022 | Báo Cáo Đồ Án Cuối Kỳ |  | LT-16 |  |  | <ul><li> [16 - Báo Cáo Đồ Án Cuối Kỳ (Part 1)](https://youtu.be/9q1Djq7iQAE) </li><li> [16 - Báo Cáo Đồ Án Cuối Kỳ (Part 2)](https://youtu.be/dbS27V6qPt0) </li></ul>|
 
 ## Thực hiện
 
