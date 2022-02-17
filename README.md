@@ -39,7 +39,7 @@ Học kỳ 1 Năm 3 Năm học 2021-2022
 | 23 | 30/11/2021 | Báo Cáo Tiến Độ Đồ Án |  | LT-13 |  |  | [13 - Báo Cáo Tiến Độ Đồ Án](https://youtu.be/H2pTiVob4N0) |
 | 24 | 01/12/2021 | ỨNG DỤNG MẠNG NEURAL HỒI QUY |  | TH.1-06 | [Bài Thực Hành 06](https://github.com/PhamThe-KHDL/DS201.M11-Deep-Learning-in-Data-Science/blob/main/TH%E1%BB%B0C%20H%C3%80NH/T%C3%80I%20LI%E1%BB%86U%20TH%E1%BB%B0C%20H%C3%80NH/Bai%20thuc%20hanh%206%20(updated).pdf) |  | [Lab06 - ỨNG DỤNG MẠNG NEURAL HỒI QUY](https://youtu.be/Qapw2gwWZI0) |
 | 25 | 07/12/2021 | Báo Cáo Tiến Độ Đồ Án |  | LT-14 |  |  | [14 - Báo Cáo Tiến Độ Đồ Án](https://youtu.be/2Xc4DpQ67Y8) |
-| 26 |  |  |  |  |  |  |  |
+| 26 | 08/12/2021 | ỨNG DỤNG MẠNG NEURAL HỒI QUY |  | TH.2-06 | [Bài Thực Hành 06](https://github.com/PhamThe-KHDL/DS201.M11-Deep-Learning-in-Data-Science/blob/main/TH%E1%BB%B0C%20H%C3%80NH/T%C3%80I%20LI%E1%BB%86U%20TH%E1%BB%B0C%20H%C3%80NH/Bai%20thuc%20hanh%206%20(updated).pdf) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12flJTogg9gtEzhO9Toy7JxnEv62cBozt?usp=sharing) | [Lab06 - ỨNG DỤNG MẠNG NEURAL HỒI QUY](https://youtu.be/fqsRUgkg5o0) |
 | 27 |  |  |  |  |  |  |  |
 
 ## Thực hiện
