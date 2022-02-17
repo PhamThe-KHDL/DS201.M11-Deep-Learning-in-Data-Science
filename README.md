@@ -20,8 +20,8 @@ Học kỳ 1 Năm 3 Năm học 2021-2022
 | 04 | 22/09/2021 | Xây dựng mạng neural căn bản |  | TH.1-01 | [Bài Thực Hành 01](https://github.com/PhamThe-KHDL/DS201.M11-Deep-Learning-in-Data-Science/blob/main/TH%E1%BB%B0C%20H%C3%80NH/T%C3%80I%20LI%E1%BB%86U%20TH%E1%BB%B0C%20H%C3%80NH/Bai%20thuc%20hanh%201.pdf) |  | [Lab01 - Xây dựng mạng neural căn bản](https://youtu.be/kSBaKHD1HOI) |
 | 05 | 28/09/2021 | Improving Deep Learning |  | LT-04 | [02 - Improving Deep Learning](https://github.com/PhamThe-KHDL/DS201.M11-Deep-Learning-in-Data-Science/blob/main/L%C3%9D%20THUY%E1%BA%BET/02%20-%20Improving_DeepLearning.pdf) |  | [04 - Improving Deep Learning](https://youtu.be/YMSx3Eb_M6M) |
 | 06 | 29/09/2021 | Xây dựng mạng neural căn bản |  | TH.2-01 | [Bài Thực Hành 01](https://github.com/PhamThe-KHDL/DS201.M11-Deep-Learning-in-Data-Science/blob/main/TH%E1%BB%B0C%20H%C3%80NH/T%C3%80I%20LI%E1%BB%86U%20TH%E1%BB%B0C%20H%C3%80NH/Bai%20thuc%20hanh%201.pdf) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1U8rvf-PX2qLDtYtoOq-l8Oj7E7P80oSw?usp=sharing) | [Lab01 - Xây dựng mạng neural căn bản](https://youtu.be/gKcdqFQEZZo) |
-| 07 | 05/10/2021 | Convolutional Neural Networks |  | LT-05 | [03 - Convolutional Neural Network]() |  | [05 - Convolutional Neural Networks](https://youtu.be/Lw9JlBZsMW0) |
-| 08 |  |  |  |  |  |  |  |
+| 07 | 05/10/2021 | Convolutional Neural Networks |  | LT-05 | [03 - Convolutional Neural Network](https://github.com/PhamThe-KHDL/DS201.M11-Deep-Learning-in-Data-Science/blob/main/L%C3%9D%20THUY%E1%BA%BET/03%20-%20Convolutional%20Neural%20Network.pdf) |  | [05 - Convolutional Neural Networks](https://youtu.be/Lw9JlBZsMW0) |
+| 08 | 06/10/2021 | Các kỹ thuật tối ưu mô hóa hình |  | TH.1-02 |  |  | [Lab02 - Các kỹ thuật tối ưu mô hóa hình](https://youtu.be/sudYZ1Tel08) |
 | 09 |  |  |  |  |  |  |  |
 | 10 |  |  |  |  |  |  |  |
 | 11 |  |  |  |  |  |  |  |
