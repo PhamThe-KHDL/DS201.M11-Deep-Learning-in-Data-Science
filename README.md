@@ -28,7 +28,7 @@ Học kỳ 1 Năm 3 Năm học 2021-2022
 | 12 | 20/10/2021 | Xây dựng mạng neural tích chập |  | TH.1-03 | [Bài Thực Hành 03](https://github.com/PhamThe-KHDL/DS201.M11-Deep-Learning-in-Data-Science/blob/main/TH%E1%BB%B0C%20H%C3%80NH/T%C3%80I%20LI%E1%BB%86U%20TH%E1%BB%B0C%20H%C3%80NH/Bai%20thuc%20hanh%203%20(updated).pdf) |  | [Lab03 - Xây dựng mạng neural tích chập](https://youtu.be/raePH3otGKo) |
 | 13 | 26/10/2021 | Convolutional Neural Networks |  | LT-08 | [03 - Convolutional Neural Network](https://github.com/PhamThe-KHDL/DS201.M11-Deep-Learning-in-Data-Science/blob/main/L%C3%9D%20THUY%E1%BA%BET/03%20-%20Convolutional%20Neural%20Network.pdf) |  | [08 - Convolutional Neural Networks](https://youtu.be/46RX6NKT0Fc) |
 | 14 | 27/10/2021 | Xây dựng mạng neural tích chập |  | TH.2-03 | [Bài Thực Hành 03](https://github.com/PhamThe-KHDL/DS201.M11-Deep-Learning-in-Data-Science/blob/main/TH%E1%BB%B0C%20H%C3%80NH/T%C3%80I%20LI%E1%BB%86U%20TH%E1%BB%B0C%20H%C3%80NH/Bai%20thuc%20hanh%203%20(updated).pdf) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oq6LfK1XOhGXCC450ikb72lk_OpwGUJa?usp=sharing) | [Lab03 - Xây dựng mạng neural tích chập](https://youtu.be/EYaBgmQLOCA) |
-| 15 |  |  |  |  |  |  |  |
+| 15 | 02/11/2021 | Recurrent Neural Networks |  | LT-09 | [04 - Recurrent Neural Networks]() |  | [09 - Recurrent Neural Networks](https://youtu.be/oDR9JsKI6Wk) |
 | 16 |  |  |  |  |  |  |  |
 | 17 |  |  |  |  |  |  |  |
 | 18 |  |  |  |  |  |  |  |
