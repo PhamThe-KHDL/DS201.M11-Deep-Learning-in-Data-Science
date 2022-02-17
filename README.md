@@ -37,7 +37,7 @@ Học kỳ 1 Năm 3 Năm học 2021-2022
 | 21 | 23/11/2021 | Recurrent Neural Networks và Báo Cáo Tiến Độ Đồ Án |  | LT-12 | [04 - Recurrent Neural Networks](https://github.com/PhamThe-KHDL/DS201.M11-Deep-Learning-in-Data-Science/blob/main/L%C3%9D%20THUY%E1%BA%BET/04%20-%20Recurrent%20Neural%20Network.pdf) |  | [12 - Recurrent Neural Networks và Báo Cáo Tiến Độ Đồ Án](https://youtu.be/H9ubqQqumVU) |
 | 22 | 24/11/2021 | Ứng dụng mạng neural tích chập |  | TH.2-05 | [Bài Thực Hành 05](https://github.com/PhamThe-KHDL/DS201.M11-Deep-Learning-in-Data-Science/blob/main/TH%E1%BB%B0C%20H%C3%80NH/T%C3%80I%20LI%E1%BB%86U%20TH%E1%BB%B0C%20H%C3%80NH/Bai%20thuc%20hanh%205.pdf) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yLGxNJVB9mkgXeiFczmV1TzooDc2Ztn_?usp=sharing) | [Lab05 - Ứng dụng mạng neural tích chập](https://youtu.be/VhW7thn0Gw0) |
 | 23 | 30/11/2021 | Báo Cáo Tiến Độ Đồ Án |  | LT-13 |  |  | [13 - Báo Cáo Tiến Độ Đồ Án](https://youtu.be/H2pTiVob4N0) |
-| 24 |  |  |  |  |  |  |  |
+| 24 | 01/12/2021 | ỨNG DỤNG MẠNG NEURAL HỒI QUY |  | TH.1-06 | [Bài Thực Hành 06](https://github.com/PhamThe-KHDL/DS201.M11-Deep-Learning-in-Data-Science/blob/main/TH%E1%BB%B0C%20H%C3%80NH/T%C3%80I%20LI%E1%BB%86U%20TH%E1%BB%B0C%20H%C3%80NH/Bai%20thuc%20hanh%205.pdf) |  | [Lab06 - ỨNG DỤNG MẠNG NEURAL HỒI QUY](https://youtu.be/Qapw2gwWZI0) |
 | 25 |  |  |  |  |  |  |  |
 | 26 |  |  |  |  |  |  |  |
 | 27 |  |  |  |  |  |  |  |
